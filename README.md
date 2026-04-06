@@ -30,5 +30,7 @@ This project processes multiple Excel files and generates useful insights using 
 ## Updates
 - Added automation script
 
+- ---------
+
 ## 🔹 Author
 Naveen Singh
