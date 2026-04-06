@@ -40,5 +40,8 @@ Learning advanced git 🚀
 
 # Testing branch change
 
+## Chart Feature
+Basic chart support added 📊
+
 ## 🔹 Author
 Naveen Singh
